@@ -1,0 +1,8 @@
+region = "us-east-1"
+customer_name = "newtest"
+project = "newtest"
+repository_url = "https://github.com/craffapptest1/default_user_portfoliotone.git"
+branch = "master"
+db_password = "newtest_password"
+db_username = "postgres"
+db_name = "newtest_db"
