@@ -95,7 +95,8 @@
           "index.ts": "file"
         }
       }
-    }
+    },
+    "project_analysis.json": "file"
   },
   "metadata": {
     "C:\\Users\\Sayed taqi\\Desktop\\bitlinks\\new_code_engine\\craftapp_code_engine\\projects\\default_user_portfoliotone\\backend\\.env": {
@@ -1103,6 +1104,16 @@
       "exports": [],
       "defines": [],
       "token_estimate": 106
+    },
+    "C:\\Users\\Sayed taqi\\Desktop\\bitlinks\\new_code_engine\\craftapp_code_engine\\projects\\default_user_portfoliotone\\project_analysis.json": {
+      "path": "C:\\Users\\Sayed taqi\\Desktop\\bitlinks\\new_code_engine\\craftapp_code_engine\\projects\\default_user_portfoliotone\\project_analysis.json",
+      "relative_path": "project_analysis.json",
+      "size": 40282,
+      "type": "other",
+      "imports": [],
+      "exports": [],
+      "defines": [],
+      "token_estimate": 1751
     }
   },
   "dependencies": {
